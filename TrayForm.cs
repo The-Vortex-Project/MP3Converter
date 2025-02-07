@@ -100,7 +100,7 @@ namespace MP3ConverterTray
                 Registry.SetValue(registryKeyPath, "", "Convert to MP3");  // This sets the visible text in the menu
                 Registry.SetValue(commandKeyPath, "", commandValue);  // This sets the command
 
-                MessageBox.Show("Right-click 'Convert to MP3' has been updated!", "Registry Updated", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                //MessageBox.Show("Right-click 'Convert to MP3' has been updated!", "Registry Updated", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             catch (Exception ex)
             {

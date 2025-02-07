@@ -6,12 +6,12 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
-    <ApplicationIcon>favicon.ico</ApplicationIcon>
+    <ApplicationIcon>mp3converter.ico</ApplicationIcon>
     <Description>I simple .wav to .mp3 converter.</Description>
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="favicon.ico" />
+    <Content Include="mp3converter.ico" />
   </ItemGroup>
 
 </Project>
